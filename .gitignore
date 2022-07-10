@@ -2,3 +2,6 @@ XiaoDuGame/Library
 XiaoDuGame/Logs
 XiaoDuGame/obj
 XiaoDuGame/Temp
+*.csproj
+*.sln
+*.suo
